@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Ivan Kenigsberg  
 
-### 💼 Senior Data Analyst | BI & Analytics Engineer | Fintech & Cloud Enthusiast  
+### 💼 Senior Data Analytics Professional | BI Engineer | Banking & Fintech Enthusiast  
 
-Welcome to my GitHub profile! I’m a data professional with 8+ years of experience across analytics, business intelligence, and data engineering — passionate about transforming data into actionable insights.  
+Welcome to my GitHub profile! I’m a data professional with 8+ years of experience across analytics & business intelligence.  
 
 🌍 Currently based in **Toronto, Canada** 🇨🇦  
-🎓 Pursuing my **Master’s in Analytics** at Northeastern University  
-🏦 Formerly: Government of Western Australia | Peigo Fintech (Ecuador) | Accenture  
-☁️ Tools & Ecosystem: **Power BI, Azure, Python, SQL, Git, APIs, and cloud data workflows**  
+🎓 Pursuing my Master’s in Analytics at Northeastern University  
+🏦 Formerly: Government of Western Australia (Finance)| Peigo Fintech | Ualá Fintech | Fallabela | Accenture (Finance)  
+☁️ Tools: SQL, Python, R, Power BI, Tableau, Looker, Excel/Sheets 
+☁️ Ecosystems: AWS, GCP, Azure   
 
 ---
 
@@ -41,6 +42,4 @@ Interactive Power BI dashboard for a fintech startup, analyzing customer profile
 📝 [Medium Articles](https://medium.com/@ikenigs)  
 📧 ivan.kenigsberg@gmail.com  
 
----
-
-> _“Data should not only inform decisions — it should inspire better ones.”_  
+--- 

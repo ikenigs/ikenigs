@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I’m a data professional with 8+ years of experie
 
 ### 🚀 Featured Projects
 
-#### 🧮 [Personal Finance Analytics](https://github.com/ikenigs/Personal-Finance-Analytics)
-A full data pipeline for personal finance management using Python, SQLite, and Power BI.
+#### 🚴‍♂️ [Ecobici 2023 Challenge](https://github.com/ikenigs/DA-Ecobici)
+Data-driven analysis of Buenos Aires’ public bike system, exploring usage, redistribution, and UX insights.
 
 #### 🚴‍♂️ [Ecobici 2023 Challenge](https://github.com/ikenigs/DA-Ecobici)
 Data-driven analysis of Buenos Aires’ public bike system, exploring usage, redistribution, and UX insights.
@@ -23,8 +23,8 @@ Data-driven analysis of Buenos Aires’ public bike system, exploring usage, red
 #### 💸 [Fintech Data Pipeline – BCRA API](https://github.com/ikenigs/Fintech-BCRA-API)
 End-to-end data ingestion and visualization project using the Central Bank of Argentina’s public API.
 
-#### 📊 [Client Segmentation Dashboard](https://github.com/ikenigs/BI-Clients-Segmentation)
-Interactive Power BI dashboard for a fintech startup, analyzing customer profiles and engagement.
+#### 🚴‍♂️ [Ecobici 2023 Challenge](https://github.com/ikenigs/DA-Ecobici)
+Data-driven analysis of Buenos Aires’ public bike system, exploring usage, redistribution, and UX insights.
 
 ---
 

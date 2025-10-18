@@ -12,19 +12,19 @@ Welcome to my GitHub profile! I’m a data professional with 8+ years of experie
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🚴‍♂️ [Ecobici 2023 Challenge](https://github.com/ikenigs/DA-Ecobici)
-Data-driven analysis of Buenos Aires’ public bike system, exploring usage, redistribution, and UX insights.
+🚴‍♂️ **[Ecobici 2023 Challenge](https://github.com/ikenigs/DA-Ecobici)**  
+Data-driven analysis of Buenos Aires’ public bike system, exploring usage patterns, station redistribution, and UX insights.
 
-#### 🚴‍♂️ [Ecobici 2023 Challenge](https://github.com/ikenigs/DA-Ecobici)
-Data-driven analysis of Buenos Aires’ public bike system, exploring usage, redistribution, and UX insights.
+💸 **[Fintech Data Pipeline – BCRA API](https://github.com/ikenigs/DA-BCRA-Pipeline)**  
+End-to-end data ingestion and visualization project using the Central Bank of Argentina’s public API. Focused on automating updates and monitoring economic indicators.
 
-#### 💸 [Fintech Data Pipeline – BCRA API](https://github.com/ikenigs/Fintech-BCRA-API)
-End-to-end data ingestion and visualization project using the Central Bank of Argentina’s public API.
+🏦 **[Bank Customers – K-Means Clustering for Retention Strategies](https://github.com/ikenigs/DS-Clustering)**  
+Customer segmentation analysis using K-Means clustering to identify groups with similar behaviors. These insights support targeted marketing strategies and improved retention efforts.
 
-#### 🚴‍♂️ [Ecobici 2023 Challenge](https://github.com/ikenigs/DA-Ecobici)
-Data-driven analysis of Buenos Aires’ public bike system, exploring usage, redistribution, and UX insights.
+🕵️‍♂️ **[Toronto Major Crime Indicators (MCI) — 2014–2024](https://github.com/ikenigs/Toronto-MCI-EDA)**  
+Exploratory Data Analysis (EDA) in R using Toronto’s open MCI dataset. As a newcomer to the city, I aimed to explore how crime trends evolved across neighbourhoods and years, revealing spatial and seasonal crime patterns.
 
 ---
 

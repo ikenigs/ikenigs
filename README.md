@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a data professional with 8+ years of experie
 🌍 Currently based in **Toronto, Canada** 🇨🇦  
 🎓 Pursuing my Master’s in Analytics at Northeastern University  
 🏦 Formerly: Government of Western Australia (Finance)| Peigo Fintech | Ualá Fintech | Fallabela | Accenture (Finance)  
-☁️ Tools: SQL, Python, R, Power BI, Tableau, Looker, Excel/Sheets 
+☁️ Tools: SQL, Python, R, Power BI, Tableau, Looker, Excel/Sheets
 ☁️ Ecosystems: AWS, GCP, Azure   
 
 ---
@@ -25,15 +25,6 @@ End-to-end data ingestion and visualization project using the Central Bank of Ar
 
 #### 📊 [Client Segmentation Dashboard](https://github.com/ikenigs/BI-Clients-Segmentation)
 Interactive Power BI dashboard for a fintech startup, analyzing customer profiles and engagement.
-
----
-
-### 🧠 Areas of Interest  
-- Data Engineering & Automation  
-- Cloud Analytics (Azure, Power BI, SQL)  
-- Fintech & Open Banking Data  
-- Sports Analytics (Padel, Running, Climbing)  
-- API Integration & Pipeline Design  
 
 ---
 

@@ -31,15 +31,10 @@ Exploratory Data Analysis (EDA) in R using Toronto’s open MCI dataset. As a ne
 ## 📊 Dashboards & 📖 Articles
 
 ### Tableau Public Portfolio
-📁 Explore my data visualizations, dashboards, and storytelling with data:  
-[Tableau Public](https://public.tableau.com/app/profile/ivan.kenigsberg/vizzes)  
-
-https://public.tableau.com/app/profile/ivan.kenigsberg
+📁 Explore my data visualizations, dashboards, and storytelling with data in [Tableau Public](https://public.tableau.com/app/profile/ivan.kenigsberg/vizzes)  
 
 ### Medium Articles
-✍️ I write about data analytics and fintech:  
-[Medium](https://medium.com/@ikenigs)
-
+✍️ I write about data analytics and fintech in [Medium](https://medium.com/@ikenigs)
 
 --- 
 

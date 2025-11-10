@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ivan Kenigsberg  
 
-### 💼 Senior Data Analytics Professional | BI Engineer | Banking & Fintech Enthusiast  
+### 💼 Senior Data Analytics Professional | BI Engineer | Fintech Enthusiast  
 
 Welcome to my GitHub profile! I’m a data professional with 8+ years of experience across analytics & business intelligence.  
 

@@ -5,8 +5,6 @@
 Welcome to my GitHub profile! I’m a data professional with 8+ years of experience across analytics & business intelligence.  
 
 🌍 Currently based in **Toronto, Canada** 🇨🇦  
-🎓 Pursuing my Master’s in Analytics at Northeastern University  
-🏦 Formerly: Government of Western Australia (Finance) | Peigo Fintech | Ualá Fintech | Fallabela | Accenture (Finance)  
 ☁️ Tools: SQL, Python, R, Power BI, Tableau, Looker, Excel/Sheets  
 ☁️ Ecosystems: AWS, GCP, Azure   
 

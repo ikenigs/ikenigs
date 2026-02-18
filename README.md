@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ivan Kenigsberg  
+# 👋 Hi, I'm Ivan
 
 ### 💼 Senior Data Analytics Professional | BI Engineer | Fintech Enthusiast  
 

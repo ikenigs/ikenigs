@@ -4,8 +4,7 @@
 
 Welcome to my GitHub profile! I’m a data professional with 8+ years of experience across analytics & business intelligence.  
 
-🌍 Currently based in **Toronto, Canada** 🇨🇦  
-☁️ Tools: SQL, Python, R, Power BI, Tableau, Looker, Excel/Sheets  
+☁️ Tools: SQL, Python, R, Power BI, Tableau, Looker, Streamlit, Excel/Sheets  
 ☁️ Ecosystems: AWS, GCP, Azure   
 
 ---

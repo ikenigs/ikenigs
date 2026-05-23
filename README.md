@@ -47,11 +47,13 @@ Exploratory Data Analysis (EDA) in R using Toronto’s open MCI dataset. As a ne
 
 ### Public dashboards  
 📁 Explore my data visualizations, dashboards, and storytelling with data in:
+- Power BI - My go-to BI tool for 10+ years, used across startups, large-scale organizations, and diverse industry ecosystems. From rapid prototyping to enterprise-grade reporting, Power BI has been my primary platform for delivering actionable insights.
+
+The remaining tools reflect hands-on experimentation and tool comparisons for scenarios where Power BI wasn't the best fit — whether due to stack constraints, open-source requirements, or specific use cases better served by a different ecosystem.
 - [Tableau Public](https://public.tableau.com/app/profile/ivan.kenigsberg/vizzes)
 - [Looker](https://lookerstudio.google.com/u/0/reporting/fc89e61c-9268-4aa2-a74c-8c05e65a71e8/)
-- Power BI
 - [Shiny](https://connect.posit.cloud/ikenigs)
-- Streamlit
+- [Streamlit](https://share.streamlit.io/user/ikenigs)
 
 ### Medium Articles  
 ✍️ I write about data analytics and fintech in [Medium](https://medium.com/@ikenigs)
